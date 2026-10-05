@@ -1,3 +1,5 @@
 Git is a distributed version control system that helps developers track changes in code and work collaboratively.
 It keeps history of all changes and allows branching.
 Feature: login page will be added here.
+
+Summary: This repo is for ICT Lab 5. It demonstrates git clone, branching, commiting, pull request and merging.
